@@ -8,3 +8,5 @@ Some projects included are:
 
 1) Password Strength Checker
 
+2) Encryption/Decryption Algorithms ([@Repo](https://github.com/RamDanny/cryptalgos))
+
